@@ -76,11 +76,7 @@
            name AS n ON s.studend_id = n.studend_id 
          ORDER BY science DESC
          LIMIT 5;
-
-## Update the fees table to mark fees as paid for all students who have scored above 300 total marks.
-   
-
-            
+               
 ## Finding the first name of the student and student_id for all those who have paid their fees.
      SELECT 
         s.studend_id,
