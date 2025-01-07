@@ -2,6 +2,19 @@
     SELECT *
     FROM students;
 
+## Finding the first name of the student and student_id for all those who have paid their fees.
+     SELECT 
+        s.studend_id,
+        f.fees_paid
+        n.firstname
+     FROM 
+        students AS s
+     JOIN 
+        name AS n ON s.studend_id = n.studend_id
+     JOIN
+        fees AS f ON n.fessid = f.fessid
+     WHERE f.fees_paid = 'yes';
+     
 ## Finding the amount of scholarship for all the students using 'Case Statements' and "Joins"
     SELECT 
     s.studend_id,
