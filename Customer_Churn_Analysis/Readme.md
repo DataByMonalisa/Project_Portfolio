@@ -7,7 +7,7 @@ This project focuses on analyzing customer churn for a telecommunications compan
 * Provide actionable recommendations to reduce churn and enhance customer satisfaction.
 ## Dataset
 * Name: Customer Churn Dataset
-* Source: Simulated data for a telecommunications company.
+* Source: Kaggle
 * Key Features:
    + Customer Demographics: Gender, age, senior citizen status, dependents.
    + Services: Internet service, streaming TV, streaming movies, tech support.
