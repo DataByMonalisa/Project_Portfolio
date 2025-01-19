@@ -48,7 +48,7 @@ This project demonstrates the power of data visualization in understanding and a
  * Power BI Dashboard:
     - Includes interactive visualizations for churn analysis.
  * Dataset:
-    - Customer churn data (sanitized for privacy).
+    - Customer churn data.
  * Screenshots:
     - Sample visuals from the dashboard.
 ## How to Use
