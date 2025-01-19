@@ -54,4 +54,4 @@ This project demonstrates the power of data visualization in understanding and a
 ## How to Use
   1. Clone or download the repository.
   2. Open the Power BI file (Customer_Churn_Analysis.pbix) to explore the dashboard.
-  3. Refer to the screenshots folder for a quick preview of insights.
+  3. Refer to the pdf file for a quick preview of insights.
