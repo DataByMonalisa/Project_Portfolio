@@ -13,4 +13,7 @@ This <b>Ecommerce Sales Performance Analysis</b> project provides a comprehensiv
 
 # <i> Consultancy-Focused Projects: </i>
 
+## Project 1 : <a href="https://github.com/DataByMonalisa/Analytics_Portfolio/tree/main/Supply_Chain_Optimisation_Analysis">Supply Chain Optimisation Analysis</a>
+This <b>Supply Chain Optimisation Analysis</b> project focuses on analyzing and optimizing supply chain processes using data-driven insights. The goal is to identify inefficiencies, reduce costs, and improve the overall performance of the supply chain by leveraging data analysis techniques. Key areas include inventory management, demand forecasting, and logistics optimization.
+
 
