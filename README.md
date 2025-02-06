@@ -14,6 +14,8 @@ This <b>Ecommerce Sales Performance Analysis</b> project provides a comprehensiv
 ## Project 3 : <a href="https://github.com/DataByMonalisa/Analytics_Portfolio/tree/main/Supply_Chain_Optimisation_Analysis">Supply Chain Optimisation Analysis</a>
 This <b>Supply Chain Optimisation Analysis</b> project focuses on analyzing and optimizing supply chain processes using data-driven insights. The goal is to identify inefficiencies, reduce costs, and improve the overall performance of the supply chain by leveraging data analysis techniques. Key areas include inventory management, demand forecasting, and logistics optimization.
 
+## Project 4 : <a href="https://github.com/DataByMonalisa/Analytics_Portfolio/tree/main/Product_Optimisation_Project" target="_blank">Product Optimisation Project</a>
+The <b> Product Price Optimization Project </b> analyzes mobile phone pricing across various brands to identify trends, value-for-money options, and price gaps between flagship and budget models. Using Power BI and Excel, the project visualizes key factors like RAM, screen size, camera quality, and battery capacity influencing price. Insights from this analysis help consumers make informed decisions and assist businesses in optimizing pricing strategies. 🚀
 
 # <a href="https://github.com/DataByMonalisa/Study_Projects" target="_blank" style="color: white; text-decoration: underline;">Study Projects</a>
 
