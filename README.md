@@ -15,7 +15,10 @@ This <b>Ecommerce Sales Performance Analysis</b> project provides a comprehensiv
 This <b>Supply Chain Optimisation Analysis</b> project focuses on analyzing and optimizing supply chain processes using data-driven insights. The goal is to identify inefficiencies, reduce costs, and improve the overall performance of the supply chain by leveraging data analysis techniques. Key areas include inventory management, demand forecasting, and logistics optimization.
 
 ## Project 4 : <a href="https://github.com/DataByMonalisa/Analytics_Portfolio/tree/main/Product_Optimisation_Project" target="_blank">Product Optimisation Project</a>
-The <b> Product Price Optimization Project </b> analyzes mobile phone pricing across various brands to identify trends, value-for-money options, and price gaps between flagship and budget models. Using Power BI and Excel, the project visualizes key factors like RAM, screen size, camera quality, and battery capacity influencing price. Insights from this analysis help consumers make informed decisions and assist businesses in optimizing pricing strategies. 🚀
+The <b> Product Price Optimization Project </b> analyzes mobile phone pricing across various brands to identify trends, value-for-money options, and price gaps between flagship and budget models. Using Power BI and Excel, the project visualizes key factors like RAM, screen size, camera quality, and battery capacity influencing price. Insights from this analysis help consumers make informed decisions and assist businesses in optimizing pricing strategies.
+
+## Project 5 : <a href="https://github.com/DataByMonalisa/Analytics_Portfolio/tree/main/Customer_Satisfaction_Analysis" target="_blank">Customer Satisfaction Analysis</a>
+The <b> BeatWave Customer Satisfaction Analysis </b> explores user feedback on an imaginary music streaming service using a **synthetically generated dataset**. It uncovers trends in pricing perception, device usage, and feature preferences, providing insights to enhance user experience and engagement.
 
 # <a href="https://github.com/DataByMonalisa/Study_Projects" target="_blank" style="color: white; text-decoration: underline;">Study Projects</a>
 
