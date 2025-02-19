@@ -20,6 +20,9 @@ The <b> Product Price Optimization Project </b> analyzes mobile phone pricing ac
 ## Project 5 : <a href="https://github.com/DataByMonalisa/Analytics_Portfolio/tree/main/Customer_Satisfaction_Analysis" target="_blank">Customer Satisfaction Analysis</a>
 The <b> BeatWave Customer Satisfaction Analysis </b> explores user feedback on an imaginary music streaming service using a **synthetically generated dataset**. It uncovers trends in pricing perception, device usage, and feature preferences, providing insights to enhance user experience and engagement.
 
+## Project 6: <a href="https://github.com/DataByMonalisa/Analytics_Portfolio/tree/main/Market_Segmentation_Analysis" target="_blank">Market Segmentation Analysis</a>
+The <b> Market Segmentation Analysis Project </b> explores customer purchasing behavior using Excel & Power BI, uncovering key insights through RFM segmentation, spending trends, and demographic analysis. The interactive dashboard provides actionable data to enhance customer targeting, retention, and sales strategies. 🚀
+
 # <a href="https://github.com/DataByMonalisa/Study_Projects" target="_blank" style="color: white; text-decoration: underline;">Study Projects</a>
 
 # <a href="https://github.com/DataByMonalisa/Certifications" target="_blank" style="color: white; text-decoration: underline;">Certifications</a>
