@@ -23,7 +23,7 @@ The <b> BeatWave Customer Satisfaction Analysis </b> explores user feedback on a
 ## Project 6: <a href="https://github.com/DataByMonalisa/Analytics_Portfolio/tree/main/Market_Segmentation_Analysis" target="_blank">Market Segmentation Analysis</a>
 The <b> Market Segmentation Analysis Project </b> explores customer purchasing behavior using Excel & Power BI, uncovering key insights through RFM segmentation, spending trends, and demographic analysis. The interactive dashboard provides actionable data to enhance customer targeting, retention, and sales strategies. 🚀
 
-## Project : <a href="https://github.com/DataByMonalisa/Analytics_Portfolio/tree/main/Sql_Project" target="_blank">SQL Projects</a>
+## Project 7 : <a href="https://github.com/DataByMonalisa/Analytics_Portfolio/tree/main/Sql_Project" target="_blank">SQL Projects</a>
 The <b> SQL Project </b> is created to showcase my SQL skills through hands-on projects. It includes various queries and exercises where I practice data extraction, manipulation, and analysis using SQL.
 
 # <a href="https://github.com/DataByMonalisa/Study_Projects" target="_blank" style="color: white; text-decoration: underline;">Study Projects</a>
