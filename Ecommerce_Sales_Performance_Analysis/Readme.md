@@ -1,5 +1,5 @@
 
-## **E-commerce Sales Performance Dashboard**  
+# E-commerce Sales Performance Dashboard
 This project showcases an interactive and data-driven **E-commerce Sales Performance Dashboard** built using **Tableau**. The dashboard provides actionable insights into key business metrics, helping stakeholders make informed decisions to boost sales, improve customer retention, and optimize product performance.
 
 ---
