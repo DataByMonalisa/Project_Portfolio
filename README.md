@@ -1,5 +1,5 @@
 # <i> Analytics_Portfolio </i>
-This repository is created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, PowerPoint, and others).
+This repository is created to showcase my analytical and technical skills (Excel, SQL, Power BI, PowerPoint, and others).
 
 # <a href="https://github.com/DataByMonalisa/About_Me" target="_blank" style="color: white; text-decoration: underline;">About Me</a>
 
